@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @brunaenvy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 ola, meu nome e @brunaenvy
+- 👀 estou interessada a aprender a programar linguagens.
+- 🌱 meu email pra contato e bruna.lima09@escola.pr.gov.br
+- 📫 eu estou aprendendo a programar recentimente as linguagens de JavaScript e Scratch
 
-<!---
-brunaenvy/brunaenvy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
